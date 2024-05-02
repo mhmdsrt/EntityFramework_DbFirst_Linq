@@ -1,0 +1,15 @@
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\bin\Debug\EmployeeDBFirst.exe.config
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\bin\Debug\EmployeeDBFirst.exe
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\bin\Debug\EmployeeDBFirst.pdb
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\bin\Debug\EntityFramework.dll
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\bin\Debug\EntityFramework.xml
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\obj\Debug\EmployeeDBFirst.csproj.AssemblyReference.cache
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\obj\Debug\EmployeeDBFirst.Form1.resources
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\obj\Debug\EmployeeDBFirst.Properties.Resources.resources
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\obj\Debug\EmployeeDBFirst.csproj.GenerateResource.cache
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\obj\Debug\EmployeeDBFirst.csproj.CoreCompileInputs.cache
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\obj\Debug\Employee.5A69E89A.Up2Date
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\obj\Debug\EmployeeDBFirst.exe
+C:\Users\Mimy\Desktop\EmployeeDBFirst\EmployeeDBFirst\obj\Debug\EmployeeDBFirst.pdb
