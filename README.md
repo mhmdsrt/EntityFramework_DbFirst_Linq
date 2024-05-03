@@ -1,5 +1,5 @@
 # EntityFramework_DbFirst_Linq
-Çalışanlar, Adresler ve Departmanlar olmak üzere ilişkili 3 tablo ile Entity Framework'ün DB First yaklaşımını kullanarak kapsamlı Linq sorguları yazdığım projem :) 
+Çalışanlar, Adresler ve Departmanlar olmak üzere ilişkili 3 tablo ile Entity Framework'ün DB First yaklaşımını kullanarak kapsamlı Linq sorguları yazdığım projem.
 
 ![Ekran Görüntüsü (70)](https://github.com/mhmdsrt/EntityFramework_DbFirst_Linq/assets/164398109/aa27f256-8eb1-4950-87b8-ba8c258aa793)
 
