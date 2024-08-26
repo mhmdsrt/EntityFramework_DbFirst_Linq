@@ -1,11 +1,11 @@
-# EntityFramework_DbFirst_Linq
-Çalışanlar, Adresler ve Departmanlar olmak üzere ilişkili 3 tablo ile Entity Framework'ün DB First yaklaşımını kullanarak kapsamlı Linq sorguları yazdığım projem.
+# 🏆 EntityFramework_DbFirst_Linq
+# ✨ Çalışanlar, Adresler ve Departmanlar olmak üzere ilişkili 3 tablo ile Entity Framework'ün DB First yaklaşımını kullanarak kapsamlı Linq sorguları yazdığım projem.
 
 ![Ekran Görüntüsü (70)](https://github.com/mhmdsrt/EntityFramework_DbFirst_Linq/assets/164398109/aa27f256-8eb1-4950-87b8-ba8c258aa793)
 
 
 
-Kodlarımdan Bazı Kısımlar:
+# 🎈 Kodlarımdan Bazı Kısımlar:
 
 ![Ekran Görüntüsü (71)](https://github.com/mhmdsrt/EntityFramework_DbFirst_Linq/assets/164398109/5c1b1927-a667-47b5-acba-6e79c8f39c52)
 ![Ekran Görüntüsü (73)](https://github.com/mhmdsrt/EntityFramework_DbFirst_Linq/assets/164398109/49e5afc3-98dc-4ac3-89d3-8676c01db568)
@@ -16,7 +16,7 @@ Kodlarımdan Bazı Kısımlar:
 
 
 
-Veri Tabanı:
+# 💎Veri Tabanı:
 ![Ekran Görüntüsü (75)](https://github.com/mhmdsrt/EntityFramework_DbFirst_Linq/assets/164398109/2ac2b8f9-ee4c-4c51-953a-e8e532542709)
 
 
