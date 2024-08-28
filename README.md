@@ -16,7 +16,7 @@
 
 
 
-# 💎Veri Tabanı:
+# 💎Database:
 ![Ekran Görüntüsü (75)](https://github.com/mhmdsrt/EntityFramework_DbFirst_Linq/assets/164398109/2ac2b8f9-ee4c-4c51-953a-e8e532542709)
 
 
